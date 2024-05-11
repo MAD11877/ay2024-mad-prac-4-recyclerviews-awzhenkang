@@ -1,0 +1,13 @@
+<resources>
+    <string name="header">MAD Practical</string>
+    <string name="SimpleApp">Practical2</string>
+    <string name="firstText">Hello World</string>
+    <string name="secondText">MADPractical</string>
+    <string name="firstButton">FOLLOW</string>
+    <string name="secondButton">MESSAGE</string>
+    <string name="toastText">Followed</string>
+    <string name="firstGroup">Group 1</string>
+    <string name="secondGroup">Group 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="first">Group 1</string>
+</resources>
